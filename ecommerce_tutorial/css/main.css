@@ -1,0 +1,49 @@
+body{
+    padding-top: 50px;
+}
+
+#headerWrapper{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 600px;
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+}
+
+#logotext{
+    position: absolute;
+    width: 100%;
+    height: 180px;
+    /*border:1px solid red;*/
+    top: 50%;
+    margin-top: -90px;
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 30px;
+    color: #3c763d;
+}
+
+.img-thumb{
+    width: auto;
+    height: 200px;
+}
+
+#footer{
+    margin-top: 50px;
+}
+
+img.details{
+    width: auto;
+    height: 300px;
+    margin:15px auto;
+}
+
+.table-auto{
+    width: auto;
+    margin: 0 auto;
+}
